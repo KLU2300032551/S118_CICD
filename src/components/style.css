@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: #333;
+    background: #3ca03e;
     color: white;
     display: flex;
     align-items: center;
@@ -38,7 +38,7 @@
   
   .sidebar ul li a {
     text-decoration: none;
-    color: #333;
+    color: #fffcf4;
     font-weight: 500;
     display: block;
     padding: 10px;
